@@ -2,14 +2,20 @@
 Autor: Jyron Cedeño
 Fecha: 18-12-2020
 
-INDICACIONES: Deben tener el archivo excel en el mismo directorio del archivo .py 
+PROBLEMÁTICA: Los 🕵‍♀ #reclutadores cada vez que manejan procesos de selección, de alguna manera tendrán que notificar a TODOS los usuarios
+sobre su proceso, sea que hayan sido aceptado como no; para mejorar la calidad del proceso de selección, ahorrar tiempo y arduo trabajo
+a los #RRHH he creado un algoritmo que automatiza el envío de correo individual a los usuario, consultando desde una base de datos en excel.
 
 
+INDICACIONES TÉCNICAS: Deben tener el archivo excel en el mismo directorio del archivo .py 
 Debes iniciar sesión con una cuenta de gmail, no olvidar que previo a eso debes haber configurado
 tú cuenta de gmail para permitir acceso a aplicaciones no seguras, esto con el fin de que los emails
 no se vayan a spam
 
 en en el siguiente link puedes ver como configurar gmail: https://docs.rocketbot.co/?p=1567 
+
+
+
 
 """
 
