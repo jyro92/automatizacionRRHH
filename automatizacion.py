@@ -161,5 +161,5 @@ class EnviarCorreo(AutomatizacionExcel):
         print('El correo no se pudo entregar')
 
 
-objAutomatizacion = EnviarCorreo(input("Ingrese su correo de logueo gmail: "), getpass.getpass("Ingrese su contaseña: "))
+objAutomatizacion = EnviarCorreo(input("Ingrese su correo de logueo gmail: "), input("Ingrese su contaseña: "))
 objAutomatizacion.conectarEmail()
